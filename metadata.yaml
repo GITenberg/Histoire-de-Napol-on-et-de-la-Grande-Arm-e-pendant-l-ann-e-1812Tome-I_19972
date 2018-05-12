@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7815
     wikipedia: http://fr.wikipedia.org/wiki/Philippe_Paul_de_S%C3%A9gur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19972#Histoire-de-Napol-on-et-de-la-Grande-Arm-e-pendant-l-ann-e-1812Tome-I
 gutenberg_bookshelf:
 - FR Guerres
 - France
